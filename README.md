@@ -6,7 +6,7 @@ This is README.
 - item2
 
 ## Part 2
+1. Sunday
 1. Monday
 1. Tuesday
 1. Wednesday
-1. Thursday
