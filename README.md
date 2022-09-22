@@ -1,5 +1,11 @@
 # cp2022
 
-This is README
+## Part 1
+This is README.
 - item1
-- iyrm2
+- item2
+
+## Part 2
+1. Monday
+1. Tuesday
+1. Wednesday
