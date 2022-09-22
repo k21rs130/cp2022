@@ -9,3 +9,4 @@ This is README.
 1. Monday
 1. Tuesday
 1. Wednesday
+1. Thursday
